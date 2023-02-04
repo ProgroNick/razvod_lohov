@@ -7,13 +7,13 @@ body{
 
 
 p{
-  color: #de1fb8
+  color: #ffffff
 }
 
 #two{
   background-image: url(https://memepedia.ru/wp-content/uploads/2020/11/nu-nichego-strashnogo-tjau-tjau.jpg);
   background-size: cover;
-  color:white
+  color: #ffffff
 }
 
 
@@ -34,5 +34,5 @@ p{
 
 
 #six pre{
-  color: white
+  color: #ffffff
 }
